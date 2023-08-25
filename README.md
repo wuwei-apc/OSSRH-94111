@@ -1,5 +1,7 @@
 # OSSRH-94111
 
+test
+
 Invalid groupId, com.github.* Group IDs are invalid now. The only allowed groupIds for Github projects are io.github.*
 io.github.wuwei-apc would be valid based on your Project URL.
 To continue the registration process, please follow these steps:
